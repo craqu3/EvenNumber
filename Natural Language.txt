@@ -1,9 +1,9 @@
 1- Home
 2- Asks the user for a number
 3- Read number
-6- Check if the numbers are the Even
-7- If it is the even, jump to step 9
-8- If it is odd, skip to step 10
-9- Write the number is even
-10- Write the number is odd
-11- End
+4- Check if the numbers are the Even
+5- If it is the even, jump to step 7
+6- If it is odd, skip to step 8
+7- Write the number is even
+8- Write the number is odd
+9- End
