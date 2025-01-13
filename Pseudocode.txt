@@ -1,0 +1,9 @@
+Algorithm EvenNumber;
+Variables int:number;
+Home
+	Write("Enter a number")
+	if number %2 == 0 then;
+	Write("The number is Even");
+	else
+	Write("The number is odd")
+End.
